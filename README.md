@@ -2,9 +2,10 @@ This is a [Next.js](https://nextjs.org) project that fetches posts from [https:/
 
 ## Features
 
+- Theme toggle
 - Query parameters
 - Pagination
 - Search using debounce
-- Use of React's Suspense API
+- React's Suspense API
 
 
